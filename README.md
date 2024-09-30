@@ -8,4 +8,4 @@
 
  ### My linkedin
 
- ![Python](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+ ![Python](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp; www.linkedin.com/in/lucas-delagracia-09b671184
