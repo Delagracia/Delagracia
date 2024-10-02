@@ -1,7 +1,7 @@
 
 ### Olá, eu sou Lucas Delagracia
 
-# 💻 Linguagens:
+# 💻:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Delagracia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
