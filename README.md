@@ -1,9 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45F722FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F722FF&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=My+name+is+Lucas+Delagracia;I'm+23+years+old;I+am+from+Brazil;Data+scientist;Be+Welcome)](https://git.io/typing-svg)
+### Olá, eu sou Lucas Delagracia
 
- ### Main skills: 
- 
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+# 💻 Linguagens:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Delagracia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Delagracia&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delagracia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://www.linkedin.com/in/lucas-delagracia-09b671184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🌐 Socials:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/llucasdelagracia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucas-delagracia-09b671184) 
